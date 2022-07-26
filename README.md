@@ -10,6 +10,26 @@ Baidu Netdisk: https://pan.baidu.com/s/1eTrkmPV65eosgyiJtbKKrw (code: 5vds)
 
 Google Drive: uploading...
 
+## Training
+STSANet model uses [S3D](https://github.com/kylemin/S3D) backbone pretrained on Kinetics dataset.
+S3D backbone weights: 
+
+Baidu Netdisk: https://pan.baidu.com/s/1z99-PANs_9ZyXAjl672OAA (code: n2il)
+
+Google Drive: uploading
+
+```
+$ python train.py --help
+usage: train.py [-h] [--lr LR] [--ds DS] [--pd PD]
+
+optional arguments:
+  -h, --help  show this help message and exit
+  --lr LR     initial learning rate
+  --ds DS     dataset (DHF1K, Hollywood-2, UCF, DIEM)
+  --pd PD     path of dataset
+
+```
+
 ## Citation
 ```
 @ARTICLE{wang2021STSANet,
