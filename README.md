@@ -8,7 +8,7 @@ Qualitative Results and Weights of STSANet can be downloaded from:
 
 Baidu Netdisk: https://pan.baidu.com/s/1eTrkmPV65eosgyiJtbKKrw (code: 5vds)
 
-Google Drive: uploading...
+Google Drive: https://drive.google.com/drive/folders/16f_8STCK6DXEPYS5DwNyZPPuDNoazXEf?usp=sharing
 
 ## Training
 STSANet model uses [S3D](https://github.com/kylemin/S3D) backbone pretrained on Kinetics dataset.
@@ -16,7 +16,7 @@ Pretrained S3D backbone:
 
 Baidu Netdisk: https://pan.baidu.com/s/1z99-PANs_9ZyXAjl672OAA (code: n2il)
 
-Google Drive: uploading
+Google Drive: https://drive.google.com/file/d/1s9ahs3OaWry1ge-7_MYi8FG0jCJJsg2s/view?usp=sharing
 
 ```
 $ python train.py --help
