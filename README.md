@@ -12,7 +12,7 @@ Google Drive: uploading...
 
 ## Training
 STSANet model uses [S3D](https://github.com/kylemin/S3D) backbone pretrained on Kinetics dataset.
-S3D backbone weights: 
+Pretrained S3D backbone: 
 
 Baidu Netdisk: https://pan.baidu.com/s/1z99-PANs_9ZyXAjl672OAA (code: n2il)
 
