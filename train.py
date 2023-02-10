@@ -4,7 +4,7 @@ import os
 from STSA_model import STSANet
 from dataloader import DHF1KDataset, UCFDataset, Hollywood, DIEM
 from tqdm import tqdm
-from loss import cc, similarity, nss, kldiv, auc_judd
+from metrics import cc, similarity, nss, kldiv, auc_judd
 import torch.nn as nn
 import cv2
 import argparse
