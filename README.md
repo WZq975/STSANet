@@ -32,11 +32,13 @@ optional arguments:
 
 ## Citation
 ```
-@ARTICLE{wang2021STSANet,
+@article{wang2021STSANet,
   author={Wang, Ziqiang and Liu, Zhi and Li, Gongyang and Wang, Yang and Zhang, Tianhong and Xu, Lihua and Wang, Jijun},
-  journal={IEEE Transactions on Multimedia (Early Access)}, 
+  journal={IEEE Transactions on Multimedia}, 
   title={Spatio-Temporal Self-Attention Network for Video Saliency Prediction}, 
-  year={2021},
+  year={2023},
+  volume={25},
+  pages={1161-1174},
   doi={10.1109/TMM.2021.3139743}
 }
 
